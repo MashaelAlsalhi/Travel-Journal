@@ -1,0 +1,162 @@
+* {
+    box-sizing: border-box;
+    font-family: Inter;
+}
+
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+nav {
+    height: 70px;
+    background: #F55A5A;
+}
+
+
+.nav--title {
+    margin-top: 0%;
+    padding-top: 20px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+
+    letter-spacing: -0.075em;
+    color: #FFFFFF;
+
+}
+
+.Card--format {
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    padding: 2.7rem;
+}
+
+hr {
+    border: 1px solid #e5e5e5;
+    margin: auto;
+    width: 60%;
+}
+
+.card--info {
+    padding-top: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+ padding-left: 2rem;
+  align-items: flex-start;
+  
+ 
+}
+
+.card--img {
+
+    width: 200px;
+    height: 250px;
+    float: left;
+
+    border-radius: 5px;
+}
+
+
+.card--description {
+   
+    line-height: 1.6;
+    
+  text-align: justify;
+  margin-top: 0.5rem;
+}
+
+
+
+.card--location{
+    letter-spacing: 0.2rem;
+    text-transform: uppercase;
+}
+
+.card--googleUrl{
+    font-size: 12px;
+    line-height: 12px;
+    /* identical to box height */
+    
+    text-decoration-line: underline;
+    
+    color: #918E9B;
+
+
+}
+
+
+.card--title{
+    
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 30px;
+
+color: #2B283A;
+margin-top: 0%;
+}
+
+
+
+.card--date{
+    font-weight: bold;
+    margin: 0%;
+}
+
+
+
+
+/* Footer */
+
+
+footer{
+   font-family: Arial;
+    background-color: #AD9CAC;
+    color: #502A4D; 
+    font-weight: bold;
+    padding: 0.05rem;
+
+   
+}
+
+
+.footer--link{
+    color: #502A4D;
+    font-size: 14px;
+}
+
+.footer--link:hover{
+    
+    color:white;
+}
+
+
+@media screen and (max-width: 680px) {
+   
+
+    .Card--format{
+        flex-direction: column;
+      
+    }
+
+    .card--info{
+        width: 70%;
+        align-items: center;
+        padding: 0%;
+    }
+
+    .card--img{
+        align-self: center;
+        width: 250px;
+        height: 250px;
+       float: none;
+
+    }
+}
