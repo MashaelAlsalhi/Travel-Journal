@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/MashaelAlsalhi/Travel-Journal/static/css/main.8c39b40e.css",
-    "main.js": "/MashaelAlsalhi/Travel-Journal/static/js/main.0b5c8606.js",
-    "static/js/787.a6f86426.chunk.js": "/MashaelAlsalhi/Travel-Journal/static/js/787.a6f86426.chunk.js",
+    "main.js": "/MashaelAlsalhi/Travel-Journal/static/js/main.acfb02bc.js",
+    "static/js/787.02264ff5.chunk.js": "/MashaelAlsalhi/Travel-Journal/static/js/787.02264ff5.chunk.js",
     "index.html": "/MashaelAlsalhi/Travel-Journal/index.html",
     "main.8c39b40e.css.map": "/MashaelAlsalhi/Travel-Journal/static/css/main.8c39b40e.css.map",
-    "main.0b5c8606.js.map": "/MashaelAlsalhi/Travel-Journal/static/js/main.0b5c8606.js.map",
-    "787.a6f86426.chunk.js.map": "/MashaelAlsalhi/Travel-Journal/static/js/787.a6f86426.chunk.js.map"
+    "main.acfb02bc.js.map": "/MashaelAlsalhi/Travel-Journal/static/js/main.acfb02bc.js.map",
+    "787.02264ff5.chunk.js.map": "/MashaelAlsalhi/Travel-Journal/static/js/787.02264ff5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8c39b40e.css",
-    "static/js/main.0b5c8606.js"
+    "static/js/main.acfb02bc.js"
   ]
 }
